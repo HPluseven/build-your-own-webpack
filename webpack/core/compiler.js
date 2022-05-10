@@ -82,10 +82,10 @@ class Compiler {
     //   "🚀 ~ file: compiler.js ~ line 54 ~ Compiler ~ Object.keys ~ this.entries",
     //   this.entries
     // );
-    console.log(
-      "🚀 ~ file: compiler.js ~ line 30 ~ Compiler ~ constructor ~  this.modules",
-      this.modules
-    );
+    // console.log(
+    //   "🚀 ~ file: compiler.js ~ line 30 ~ Compiler ~ constructor ~  this.modules",
+    //   this.modules
+    // );
     // console.log(
     //   "🚀 ~ file: compiler.js ~ line 32 ~ Compiler ~ constructor ~ this.chunks",
     //   this.chunks
